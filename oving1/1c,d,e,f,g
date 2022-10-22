@@ -1,0 +1,11 @@
+__author__ = 'Martinskole'
+# -*- coding: utf-8 -*-
+print("Hello world")
+
+tall1=int(input("skriv inn et tall: "))
+tall2=int(input("skriv inn et tall: "))
+print("Sum: ",tall1+tall2)
+
+print("Modulo: ",tall1%tall2)
+
+#det her e kommentaren som man måtte skrive
